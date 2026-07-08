@@ -1,0 +1,6 @@
+{
+  "name": "Université en Ligne CFA",
+  "description": "Plateforme d'université en ligne CFA avec catalogues de formations et tableaux de bord dédiés pour les Administrateurs, Formateurs et Étudiants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
